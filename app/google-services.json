@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "775351968833",
+    "project_id": "test-shop-de2a1",
+    "storage_bucket": "test-shop-de2a1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:775351968833:android:8f7c37923380bfa0c592c0",
+        "android_client_info": {
+          "package_name": "com.dhruva.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8MWLiYqplopYZ9vRo60FK3_AOsK1JBVY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
